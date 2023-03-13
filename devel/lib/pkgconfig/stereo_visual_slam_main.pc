@@ -1,0 +1,8 @@
+prefix=/home/martin/minhbq6/SLAM/stereo-visual-slam/devel
+
+Name: stereo_visual_slam_main
+Description: Description of stereo_visual_slam_main
+Version: 0.10.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp message_runtime sensor_msgs tf visualization_msgs
